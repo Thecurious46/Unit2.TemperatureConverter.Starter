@@ -29,8 +29,8 @@ function (100,37) {"hot"}
 
 /**
  * Takes a number and returns a random integer from 0 to the limit
- * @param {number} limit
- * @returns {number} a number between 0 and the int passed in
+ * @param {999} limit
+ * @returns {879} a number between 0 and the int passed in
  */
 function rand(limit) {}
 
